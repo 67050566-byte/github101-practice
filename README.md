@@ -21,7 +21,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-| Example Student | Team 00 | Demo | [https://github.com/67050566-byte/github101-practice/blob/main/docs/evidence/67050566-phakpakin.md](docs/evidence/example-student.md) | - |
+| Example Student | Team 00 | Demo | [https://github.com/67050566-byte/github101-practice/blob/main/docs/evidence/67050566-phakpakin.md](docs/evidence/example-student.md) | https://github.com/67050566-byte/github101-practice/blob/main/docs/issues/Title%3A%20%5BPractice%5D%20Add%20my%20GitHub%20evidence.md |
 
 ---
 
