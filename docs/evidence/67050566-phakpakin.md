@@ -17,7 +17,7 @@ commit และ push งานขึ้น GitHub
 
 - README link:https://github.com/67050566-byte/github101-practice/blob/main/README.md
 - Commit link:https://github.com/67050566-byte/github101-practice/commits/main/docs/evidence/67050566-phakpakin.md
-- Issue link:
+- Issue link:https://github.com/67050566-byte/github101-practice/blob/main/docs/issues/Title:%20%5BPractice%5D%20Add%20my%20GitHub%20evidence.md
 
 ## 5. Reflection
 
